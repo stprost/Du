@@ -12,7 +12,7 @@ public class Du {
     public Du(boolean format, boolean sum, boolean numSyst) {
         this.format = format;
         this.sum = sum;
-        this.numSyst = numSyst;
+        this.numSyst = numSyst ;
     }
 
     private long fileSize(File file) {
